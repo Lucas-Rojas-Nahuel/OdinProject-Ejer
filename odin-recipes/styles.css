@@ -1,0 +1,40 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: #111827;
+    width: 100vw;
+    height: 100vh;
+}
+
+.title{
+    font-size: 60px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    height: 50%;
+}
+
+ul{
+     width: 100vw;
+    height: 50%;
+}
+
+li{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style:georgian;
+}
+
+.text{
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+}    
